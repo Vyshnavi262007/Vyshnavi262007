@@ -85,7 +85,7 @@ Analytics platform for crime data using Machine Learning.
 📧 Email: vyshnaviponapati@gmail.com
 
 💼 LinkedIn:
-(Add your LinkedIn profile link here)
+https://www.linkedin.com/in/vyshnavi-ponapati-545901320/
 
 🐙 GitHub:
 https://github.com/Vyshnavi262007
